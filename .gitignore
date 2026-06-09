@@ -1,0 +1,30 @@
+# Python
+pc/.venv/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Claude Code
+# 디바이스 간 공유 설정은 커밋한다: CLAUDE.md, .claude/settings.json,
+# .claude/commands·skills·agents/, .mcp.json (어느 기기에서도 같은 환경 유지).
+# 머신 전용/비밀 설정만 무시한다.
+.claude/settings.local.json
+.claude/**/*.local.json
+
+# Tooling scratch (브레인스토밍 등 일회성 작업 산출물)
+.superpowers/
+
+# OS 잡파일 (macOS · Windows 디바이스 간 이동 대비)
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# 에디터
+.idea/
+.vscode/

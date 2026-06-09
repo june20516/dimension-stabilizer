@@ -1,0 +1,9 @@
+# 공통 코어 (Phase 3) — 마우스 입력
+pynput==1.8.2
+
+# Track A 백엔드 (Phase 4) — 추가 예정
+# sounddevice
+# numpy
+
+# Track B 백엔드 (Phase 5) — 추가 예정
+# pyserial
