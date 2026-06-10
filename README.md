@@ -51,6 +51,8 @@ pc\.venv\Scripts\python -m pc.core
 | `docs/build-roadmap.md` | 단계별 로드맵 (소프트웨어 중심) |
 | `docs/validation-plan.md` | 효과 검증(자가 A/B) 계획 |
 | `docs/cross-platform.md` | Windows·macOS 호환 전략 (OS 경계 3곳) |
+| `docs/arduino-inventory.md` | 아두이노 보유 부품 현황·역할·환경 메모 |
+| `docs/arduino-curriculum.md` | 아두이노 학습 커리큘럼 + 진행 추적(다른 세션 이어가기) |
 | `pc/` | 공통 코어 소스 + 테스트 (config·mapping·input_mouse·core) |
 
 ## 다음 할 일
